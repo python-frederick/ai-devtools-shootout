@@ -12,9 +12,11 @@ A repo to compare devtools used by Python Frederick members
 - What is the resource footprint?
 - What programming languages can you use? Any restrictions?
 
-## Chris
+## Chris - VS Code / Copilot
 
-VS Code / Copilot
+[Code - OSS](https://github.com/microsoft/vscode) - Open source base
+
+[VS Code](https://code.visualstudio.com/) - What you're looking at right now
 
 ### UX
 
@@ -38,6 +40,8 @@ Massive extension marketplace, including support for:
     - GitHub integrations
 
 Allegedly some are paid, never seen one myself.
+
+***Caveat***: Extensions are not 100% compatible between Code - OSS and VS Code, but overwhelmingly they are.
 
 ### Open or Closed Source
 
